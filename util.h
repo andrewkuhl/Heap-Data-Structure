@@ -6,6 +6,7 @@
 struct COMMAND{
 	char c;
 	int n;
+	int m;
 };
 
 COMMAND* INNIT_COMMAND();
